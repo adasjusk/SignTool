@@ -4,11 +4,7 @@
 3. Finish installation.
 
 # Use the Signing Tool to Create a Certificate
-0. Launch Powershell by pressing Win + X and pressing Terminal (admin) or Win Powershell (admin)
-1. Launch the Signing Tool from this:
-```
-irm https://raw.githubusercontent.com/adasjusk/SignTool/main/SignTool.ps1 | iex
-```
+1. Launch the Signing Tool
 2. Switch to the Create Certificate tab.
 3. Press Create Certificate button
 4. It will generate a .pfx file.
